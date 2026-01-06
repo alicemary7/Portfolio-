@@ -239,7 +239,8 @@ nav {
 }
 
 .about-image img {
-  width: 100%;
+  width: 120%;
+  height:690%;
   border-radius: 170px;
   margin-bottom: 100px;
   box-shadow: 0 90px 200px rgba(15, 13, 13, 0.1);
