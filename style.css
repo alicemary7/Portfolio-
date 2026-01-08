@@ -177,6 +177,7 @@ nav {
 }
 .hero-text a {
   margin-bottom: 100px;
+  font-size: 20px;
 }
 
 .hero-image {
@@ -203,8 +204,8 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 45px;
-  height: 45px;
+  width: 65px;
+  height: 65px;
   border-radius: 50%;
   background: white;
   margin-right: 15px;
