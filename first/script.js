@@ -76,5 +76,5 @@
       const currentYear = new Date().getFullYear();
       document.querySelector(
         ".copyright"
-      ).textContent = `© ${currentYear} Your Name. All rights reserved.`;
+      ).textContent = `© ${currentYear} Alice Mary. All rights reserved.`;
     
